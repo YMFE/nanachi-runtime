@@ -1,0 +1,23 @@
+{
+  "name": "nanachi-runtime",
+  "version": "0.0.1",
+  "description": "runtime for nanachi",
+  "main": "runtime/ReactWX.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YMFE/nanachi-runtime.git"
+  },
+  "keywords": [
+    "nanachi",
+    "runtime"
+  ],
+  "author": "YMFE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YMFE/nanachi-runtime/issues"
+  },
+  "homepage": "https://github.com/YMFE/nanachi-runtime#readme"
+}
